@@ -1,0 +1,40 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container {
+    text-align: center;
+    margin-top: 20px;
+    font-family: "Noto Sans", serif;
+}
+
+.container h1 {
+    font-size: 40px;
+}
+
+.container p {
+    font-style: italic;
+}
+
+
+ul {
+    margin-top: 40px;
+}
+
+ul li {
+    margin: 10px 0px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: rgb(119, 89, 44);
+    font-size: 20px;
+    transition: font-weight 400ms;
+}
+
+ul li a:hover {
+    color: rgb(84, 66, 39);
+    font-weight: bold;
+}
