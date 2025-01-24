@@ -1,13 +1,14 @@
 * {
     padding: 0px;
     margin: 0px;
+    font-family: "Noto Sans", serif;
 }
 
 
 .container {
     text-align: center;
     margin-top: 20px;
-    font-family: "Noto Sans", serif;
+   
 }
 
 .container h1 {

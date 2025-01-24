@@ -1,0 +1,57 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: "Noto Sans", serif;
+    text-decoration: none;
+}
+
+#home {
+    float: left;
+    color: rgb(38, 87, 130);
+    transition: font-weight;
+}
+
+#home:hover {
+    font-weight: bold;
+}
+
+.secondary-container {
+    padding-top: 20px;    
+}
+
+.container .secondary-container {
+    text-align: center;
+}
+
+
+.container .secondary-container h1 {
+    font-size: 40px;
+}
+
+.container .secondary-container p {
+    font-style: italic;
+}
+
+.container .secondary-container img {
+    margin: 20px 0px;
+    width: 400px;
+    height: auto;
+}
+
+h3 {
+    padding: 20px 250px;
+}
+
+
+ul {
+    margin: 0px 2px;
+}
+
+
+/* Comment section 
+
+- Why is the ordered list and unordered list not showing the numbers and dots? 
+
+- Change the backgroud color and text color.
+
+- add footer (with links to other recipes or with links to the sources of the recipe)
